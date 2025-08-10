@@ -1,0 +1,13 @@
+{
+"name": "Waters_Customization",
+  "displayName": "Water's Customization",
+  "authorName": "Water",
+  "version_number": "1.0.0",
+  "website_url": "https://peakmodding.github.io",
+  "description": "Adds some customization for my friends :)",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403",
+        "Radsi2-PassporPagination-1.0.0",
+        "cretapark-More_Customizations-1.1.1"
+    ],
+}
