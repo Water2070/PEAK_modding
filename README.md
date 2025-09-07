@@ -39,6 +39,6 @@
 - _awA! : artist (https://x.com/_awAsLive)
 - Reai : artist
 
-You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/water2070)
+You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/water2070) <3
 
 Yipeak!
