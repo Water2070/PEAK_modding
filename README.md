@@ -33,3 +33,10 @@
   - Roblox face details
 
 ### MORE TO COME SOON!
+
+# Credit
+- Water : mod director
+- _awA! : artist (https://x.com/_awAsLive)
+- Reai : artist
+
+Yipeak!
