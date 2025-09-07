@@ -29,7 +29,7 @@
   - No mouth
   - Open canine tooth
  
-  - **ACCESORIES**
-    -Roblox Face details)
+- **ACCESORIES**
+  - Roblox Face details)
 
 ### MORE TO COME SOON!
