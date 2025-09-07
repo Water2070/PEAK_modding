@@ -3,7 +3,7 @@
 ### Here is a customization mod made for my friends, even if you're not one of them I hope you like it!
 
 # Content :
-- ## EYES
+- EYES
  - Minecrafft Eyes
  - Aracnid Eyes
  - Bendy's
