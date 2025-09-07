@@ -4,14 +4,14 @@
 
 # Content :
 - EYES
- - Minecrafft Eyes
- - Aracnid Eyes
- - Bendy's
- - Roblox eyes
- - Pas d'yeux
- - Marshmellow
- - Yeux kawaii 
- - passive mouth 
- - dead mouth 
+  - Minecrafft Eyes
+  - Aracnid Eyes
+  - Bendy's
+  - Roblox eyes
+  - Pas d'yeux
+  - Marshmellow
+  - Yeux kawaii 
+  - passive mouth 
+  - dead mouth 
 
 ### MORE TO COME SOON!
