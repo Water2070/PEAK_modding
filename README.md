@@ -30,6 +30,6 @@
   - Open canine tooth
  
 - **ACCESORIES**
-  - Roblox Face details)
+  - Roblox face details
 
 ### MORE TO COME SOON!
