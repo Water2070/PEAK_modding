@@ -12,20 +12,20 @@
   - Kawaii
   
 - **MOUTH**
-  - Chat
-  - Passif
-  - Soumis
-  - Beurk
-  - Actually
-  - trixie
+  - Cat
+  - Passive
+  - X
+  - Disgusting
+  - Ackshualy
+  - Trixie
   - Dawn
   - Sharp teath
-  - Bober Kurva
+  - Bobr Kurva (beaver)
   - Fang
-  - mayonaise
-  - dent du bonheur
-  - W
-  - Roblox mouth
-  - Pas d'bouche
+  - No reaction
+  - Diastema
+  - UwU mouth
+  - Roblox
+  - No mouth
 
 ### MORE TO COME SOON!
