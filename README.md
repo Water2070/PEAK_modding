@@ -27,5 +27,9 @@
   - UwU mouth
   - Roblox
   - No mouth
+  - Open canine tooth
+ 
+  - **ACCESORIES**
+    -Roblox Face details)
 
 ### MORE TO COME SOON!
