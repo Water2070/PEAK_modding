@@ -2,7 +2,7 @@
 ### Here is a customization mod made for my friends, even if you're not one of them I hope you like it!
 
 # Content :
-- ### Eyes
+- ### EYES
   - Minecraft
   - Arachnid
   - Bendy's 
