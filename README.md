@@ -11,7 +11,7 @@
   - Marshmellow
   - Kawaii
   
-- **MOUTH**
+- ### MOUTH
   - Cat
   - Passive
   - X
@@ -29,7 +29,7 @@
   - No mouth
   - Open canine tooth
  
-- **ACCESORIES**
+- ### ACCESORIES
   - Roblox face details
 
 ### MORE TO COME SOON!
