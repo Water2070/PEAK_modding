@@ -20,7 +20,7 @@
   - Trixie
   - Dawn
   - Sharp teath
-  - Bobr Kurva (beaver)
+  - Beaver
   - Fang
   - No reaction
   - Diastema
@@ -28,6 +28,8 @@
   - Roblox
   - No mouth
   - Open canine tooth
+  - Orc
+  - Dog
  
 - ### ACCESORIES
   - Roblox face details
