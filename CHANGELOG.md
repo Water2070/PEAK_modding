@@ -25,3 +25,7 @@
 
 ## 1.0.7
 - Updated thunderstore page
+
+## 1.0.8
+- Fixed bugs
+- Added 2 new mouths
