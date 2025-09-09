@@ -1,4 +1,4 @@
-![banner](https://github.com/Water2070/PEAK_modding/main/Banner.png)
+![banner](https://github.com/Water2070/PEAK_modding/blob/main/Banner.png)
 ### Here is a customization mod made for my friends, even if you're not one of them I hope you like it!
 
 # Content :
