@@ -29,3 +29,6 @@
 ## 1.0.8
 - Fixed bugs
 - Added 2 new mouths
+
+## 1.0.9
+- Added 8 new accesories

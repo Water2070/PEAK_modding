@@ -2,9 +2,9 @@
 "name": "Waters_Customization",
   "displayName": "Water's Cosmetics",
   "authorName": "Water",
-  "version_number": "1.0.8",
+  "version_number": "1.0.9",
   "website_url": "https://github.com/Water2070/PEAK_modding",
-  "description": "Adds over 25 new vanilla+ cosmetics! And more to come!",
+  "description": "Adds over 30 new vanilla+ cosmetics! And more to come!",
     "dependencies": [
         "BepInEx-BepInExPack_PEAK-5.4.2403",
         "Radsi2-PassporPagination-1.0.0",

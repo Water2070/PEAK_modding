@@ -30,9 +30,18 @@
   - Open canine tooth
   - Orc
   - Dog
+  - Censored mouth
  
 - ### ACCESORIES
   - Roblox face details
+  - Mustache
+  - Cat 
+  - Sweat
+  - Angry
+  - Hearts
+  - Single eyebrow
+  - Mole
+  - ZZZ
 
 ### MORE TO COME SOON!
 
