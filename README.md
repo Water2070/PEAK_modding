@@ -1,17 +1,24 @@
 ![banner](https://github.com/Water2070/PEAK_modding/raw/main/Banner.png)
 ### Here is a customization mod made for my friends, even if you're not one of them I hope you like it!
 
-# Content :
-- ### EYES
+You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/water2070) <3
+
+# Content : 54 vanilla+ cosmetics
+- ### EYES - 12
   - Minecraft
   - Arachnid
-  - Bendy's 
+  - Bendy's
   - Roblox
   - No eyes
   - Marshmellow
   - Kawaii
+  - Spiral
+  - ^^
+  - Circle
+  - Dot
+  - Line
   
-- ### MOUTH
+- ### MOUTH - 19
   - Cat
   - Passive
   - X
@@ -32,16 +39,31 @@
   - Dog
   - Censored mouth
  
-- ### ACCESORIES
+- ### ACCESORIES - 23
   - Roblox face details
   - Mustache
-  - Cat 
+  - Cat
   - Sweat
   - Angry
   - Hearts
-  - Single eyebrow
+  - Single brow
   - Mole
   - ZZZ
+  - Blush
+  - Flower
+  - Sad brows
+  - Star glasses
+  - Heart glasses
+  - Percival hair
+  - Bangs
+  - Barcode
+  - Mischievous brows
+  - Beard
+  - Little nose
+  - Clown nose
+  - Bindi
+  - Nostrils
+
 
 ### MORE TO COME SOON!
 
@@ -49,7 +71,5 @@
 - Water : mod director
 - _awA! : artist (https://x.com/_awAsLive)
 - Reai : artist
-
-You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/water2070) <3
 
 Yipeak!

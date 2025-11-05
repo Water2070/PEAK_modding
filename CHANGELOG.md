@@ -32,3 +32,16 @@
 
 ## 1.0.9
 - Added 8 new accesories
+
+## 1.0.10
+- Added 3 new accesories
+
+## 1.0.11
+- Added 5 new eyes
+- Fixed 3 accesories
+
+## 1.0.12
+- Added 11 new accesories
+
+## 1.0.13
+- Fixed compatibility with new update
