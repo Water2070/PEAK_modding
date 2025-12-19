@@ -45,3 +45,8 @@
 
 ## 1.0.13
 - Fixed compatibility with new update
+
+## 1.1.0
+- NOW WITH HATS!
+- Added 3 new hats
+- Added 5 new accesories

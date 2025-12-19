@@ -1,9 +1,9 @@
 ![banner](https://github.com/Water2070/PEAK_modding/raw/main/Banner.png)
-### Here is a customization mod made for my friends, even if you're not one of them I hope you like it!
+### Here is a customization mod made by water's team, I hope you like it!
 
 You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/water2070) <3
 
-# Content : 54 vanilla+ cosmetics
+# Content : 62 vanilla+ cosmetics
 - ### EYES - 12
   - Minecraft
   - Arachnid
@@ -39,7 +39,7 @@ You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/wa
   - Dog
   - Censored mouth
  
-- ### ACCESORIES - 23
+- ### ACCESORIES - 28
   - Roblox face details
   - Mustache
   - Cat
@@ -55,7 +55,7 @@ You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/wa
   - Star glasses
   - Heart glasses
   - Percival hair
-  - Bangs
+  - Wavy hair
   - Barcode
   - Mischievous brows
   - Beard
@@ -63,6 +63,16 @@ You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/wa
   - Clown nose
   - Bindi
   - Nostrils
+  - Positive negative
+  - Bangs
+  - Snowflakes
+  - Warrior brows
+  - Beautiful brows
+
+- ### NEW HATS - 3 
+  - Raclette
+  - Leaf
+  - Holly
 
 
 ### MORE TO COME SOON!
@@ -71,5 +81,6 @@ You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/wa
 - Water : mod director
 - _awA! : artist (https://x.com/_awAsLive)
 - Reai : artist
+- Lisicaaa : artist
 
 Yipeak!
