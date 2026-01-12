@@ -3,13 +3,13 @@
 
 You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/water2070) <3
 
-# Content : 62 vanilla+ cosmetics
+# Content : 74 vanilla+ cosmetics
 - ### EYES - 12
   - Minecraft
   - Arachnid
   - Bendy's
   - Roblox
-  - No eyes
+  - Nothing
   - Marshmellow
   - Kawaii
   - Spiral
@@ -18,29 +18,34 @@ You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/wa
   - Dot
   - Line
   
-- ### MOUTH - 19
+- ### MOUTH - 24
   - Cat
   - Passive
   - X
   - Disgusting
   - Ackshualy
-  - Trixie
-  - Dawn
-  - Sharp teath
+  - Black lips
+  - Red lips
+  - Sharp teeth
   - Beaver
   - Fang
-  - No reaction
+  - My honest reaction
   - Diastema
-  - UwU mouth
+  - UwU
   - Roblox
-  - No mouth
-  - Open canine tooth
+  - Nothing
+  - Open canines
   - Orc
   - Dog
-  - Censored mouth
+  - Censored
+  - Divine
+  - Leg Eater
+  - Zote
+  - Shocked
+  - Fearful
  
-- ### ACCESORIES - 28
-  - Roblox face details
+- ### ACCESORIES - 34
+  - Roblox
   - Mustache
   - Cat
   - Sweat
@@ -54,26 +59,32 @@ You can tip us here if you like our work : [our ko-fi page](https://ko-fi.com/wa
   - Sad brows
   - Star glasses
   - Heart glasses
-  - Percival hair
+  - Bowl cut
   - Wavy hair
   - Barcode
   - Mischievous brows
   - Beard
   - Little nose
-  - Clown nose
+  - Clown
   - Bindi
   - Nostrils
-  - Positive negative
+  - +-
   - Bangs
   - Snowflakes
   - Warrior brows
   - Beautiful brows
+  - Old glasses
+  - Monocle
+  - Wii 1
+  - Wii 2
+  - Wii 3
+  - Wii 4
 
-- ### NEW HATS - 3 
+- ### NEW HATS - 4
   - Raclette
   - Leaf
   - Holly
-
+  - Antennas
 
 ### MORE TO COME SOON!
 

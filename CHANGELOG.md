@@ -50,3 +50,8 @@
 - NOW WITH HATS!
 - Added 3 new hats
 - Added 5 new accesories
+
+## 1.1.1
+- Added 5 new mouths
+- Added 6 new accesories
+- Added 1 new hat
